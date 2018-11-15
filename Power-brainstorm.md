@@ -6,14 +6,16 @@
     -   Hierarchies
         
     -   Knowledge
-        
+    
+    -   Time / commitment
+    
     -   Class / race
         
 -   The nature of political power
     
     -   Power to, power over, etc.
         
-    -   Filosofical thought on power
+    -   Philosofical thought on power
         
         -   Arendt
             
@@ -36,7 +38,13 @@
     -   Black/white
         
     -   Cis/Queer
-        
+    
+    -   Institutional access
+
+-   Language        
+
+-   Institutional power of capital
+
 -   Power and the state
     
     -   Anarchist critiques of gaining state power
@@ -50,7 +58,9 @@
 -   Political power outside the state
     
     -   Gramscian cultural hegemony
-        
+    
+        -   Power of imagination/possibilties (redefining common sense)
+    
     -   Foucaultian 'we all maintain the system'
         
     -   Situationist: remaking the state every day
@@ -73,7 +83,7 @@
         
     -   Social strike
         
--   Preconditions for excerting power
+-   Practices for creating political agency
     
     -   Own media
         
@@ -81,17 +91,25 @@
         
     -   Political education
         
-    -   Organisation
+-   Organisation
+
+    -   Emergent properties (Monbiot)
+    
+    -   Bowling alone
         
     -   Mobilisation
+    
+    -   Institutions
         
-    -   Vision
+-   Vision
         
-    -   Strategy
+-   Strategy
         
 -   Media
     
     -   Framing
+        
+        -   Shifting the Overton window through repeated exposure
         
     -   Agenda setting
         
