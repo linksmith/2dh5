@@ -4,7 +4,7 @@
 -   Power dynamics within activist groups
     
     -   Hierarchies
-        
+    
     -   Knowledge
     
     -   Time / commitment
@@ -15,7 +15,7 @@
     
     -   Power to, power over, etc.
         
-    -   Philosofical thought on power
+    -   Philosophical thought on power
         
         -   Arendt
             
@@ -121,5 +121,5 @@
             
         -   Principled: Don't vote
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTI3MjI4N119
+eyJoaXN0b3J5IjpbLTIyNTY0MDU3NCwxNzgxMjcyMjg3XX0=
 -->
